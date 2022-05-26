@@ -24,7 +24,7 @@ Add a screenshot of your solution. The easiest way to do this is to use Firefox 
 ### Links
 
 - Solution URL: [https://github.com/KosyAbone/qr-code-component](https://github.com/KosyAbone/qr-code-component)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [https://kosyabone.github.io/qr-code-component](https://kosyabone.github.io/qr-code-component)
 
 ## My process
 
