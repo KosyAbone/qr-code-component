@@ -26,13 +26,13 @@ body{
     margin-top: auto;
     background-color: var(--white);
     width: 90%;
-    padding: 1rem;
+    padding: 0.6rem 0.8rem;
     border-radius: 20px;
 }
 
 .img-box{
-    object-fit: cover;
-    margin-bottom: 1.4rem;
+    object-fit: contain;
+    margin-bottom: 1rem;
 }
 
 .qr-img{
@@ -43,30 +43,37 @@ body{
 }
 
 .text > *{
-    margin-bottom: 1.2rem;
+    margin-bottom: 1rem;
     padding: 0 0.8rem;
     text-align: center;
 }
 
-.text > h2{
+.text > h1{
+    font-size: 24px;
     color: var(--dark-blue);
-    font-weight: 700;
+    font-weight: 600;
 }
 
 .text > p{
+    padding: 0 1.7rem;
     color: var(--grayish-blue);
 }
 
 footer{
     font-size: 0.9rem;
     margin-top: auto;
-    margin-bottom: 0.8rem;
+    margin-bottom: 0.1rem;
 }
 
 @media screen and (max-width: 368px) {
     .text > *{
-        font-size: 0.9rem;
         margin-bottom: 0.8rem;
+    }
+    .text > p{
+        font-size: 0.9rem;
+    }
+    .text > h1{
+        font-size: 17px;
     }
 }
 
