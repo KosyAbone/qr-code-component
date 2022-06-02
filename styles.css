@@ -89,8 +89,8 @@ footer{
    }
 }
 
-@media (min-width: 470px) and (max-width: 660px) {
+/* @media (min-width: 470px) and (max-width: 660px) {
     #outer-section{
         width: 70vw;
     }
-}
+} */
